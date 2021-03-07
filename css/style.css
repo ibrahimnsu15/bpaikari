@@ -1,0 +1,12 @@
+.container1{
+    background-image: url('../bpaikari.png') ;
+    background-size: cover;
+    width: 105%;
+    height: 700px;
+}
+
+.coming-soon{
+    text-align: center;
+    padding-top: 40%;
+    font-size: 60px;
+}
